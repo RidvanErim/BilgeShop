@@ -10,3 +10,8 @@
 - JavaScript/Jquery
 - Bootstrap
 - Toastr/SweetAlert/LigthBox/DataTables
+
+
+##Kurulum
+- Migration dosyaları silindikten sonra , add-migration ve update-database komutları kullanılarak veritabanı ayaklandırılabilir.
+- Veritabanına default olarak admin bilgileri gelecektir.Admin için şifre ***123***
